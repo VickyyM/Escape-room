@@ -1,5 +1,5 @@
 Съдържание на архива:
-main.php 
+index.php 
 В папка css
 game.css
 style.css
